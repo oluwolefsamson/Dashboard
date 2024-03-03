@@ -18,7 +18,7 @@ export default function Page() {
             <a href="https://nextjs.org/learn/" className="text-green-500">
               
             </a>
-              Brought to you by Samtech.
+              Brought to you by samTech.
           </p>
           <Link
             href="../dashboard"
